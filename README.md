@@ -1,7 +1,7 @@
 ### Ahoy, hoy! 👋
 * I'm a bioinformatician specialising in RNA biology. 
 * I completed my PhD at the Francis Crick Institute in London with Prof. Jernej Ule and Prof. Nick Luscombe. 
-* I am currently based in Japan where I am a research fellow in Prof. Nick Luscombe's unit at OIST. 
+* I am currently based at UK DRI at King's College London where I am a postgraduate research associate in Prof. Jernej Ule's group.
 * I also work with [Goodwright](https://goodwright.com/) to produce high quality bioinformatics software.
 
 #### Current Working on
